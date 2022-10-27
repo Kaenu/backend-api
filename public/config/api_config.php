@@ -1,4 +1,4 @@
 <?php
-    $backendend_api_username = "admin";
-    $backendend_api_username = "123";
+    $api_username = "admin";
+    $api_password = "sec!ReT423*&";
 ?>
